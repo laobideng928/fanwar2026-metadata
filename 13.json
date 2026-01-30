@@ -1,51 +1,48 @@
 {
-  "name": "FanWar 2026 - 英格兰 Badge",
-  "description": "FanWar 2026 世界杯 英格兰 (England) 官方粉丝徽章。持有此徽章表示您支持英格兰队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若英格兰队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - 英格兰 徽章",
+  "description": "FanWar 2026 世界杯 英格兰 官方粉丝徽章 🏴󠁧󠁢󠁥󠁮󠁧󠁿。持有此徽章表示您支持英格兰队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若英格兰队小组出线，权重翻倍！",
   "image": "https://flagcdn.com/w320/gb-eng.png",
   "external_url": "https://fanwar2026.xyz/nation/13",
   "attributes": [
     {
-      "trait_type": "Country",
-      "value": "England"
-    },
-    {
-      "trait_type": "Country (Chinese)",
+      "trait_type": "国家",
       "value": "英格兰"
     },
     {
-      "trait_type": "Group",
-      "value": "Group D"
+      "trait_type": "英文名",
+      "value": "England"
     },
     {
-      "trait_type": "Flag Emoji",
+      "trait_type": "小组",
+      "value": "D 组"
+    },
+    {
+      "trait_type": "国旗",
       "value": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
     },
     {
-      "trait_type": "Country Code",
-      "value": "GB-ENG"
-    },
-    {
-      "trait_type": "Token ID",
+      "trait_type": "代币编号",
       "display_type": "number",
       "value": 13
     },
     {
-      "trait_type": "Airdrop Multiplier",
-      "value": "5x"
+      "trait_type": "空投加成",
+      "value": "5 倍"
     },
     {
-      "trait_type": "Event",
-      "value": "FIFA World Cup 2026"
+      "trait_type": "赛事",
+      "value": "2026 美加墨世界杯"
     },
     {
-      "trait_type": "Rarity",
-      "value": "Epic"
+      "trait_type": "稀有度",
+      "value": "史诗"
     }
   ],
   "properties": {
     "nation_id": 13,
     "group": "D",
     "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "country_code": "gb-eng"
+    "country_code": "gb-eng",
+    "name_en": "England"
   }
 }

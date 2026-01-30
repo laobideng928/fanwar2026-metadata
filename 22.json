@@ -1,51 +1,48 @@
 {
-  "name": "FanWar 2026 - 瑞士 Badge",
-  "description": "FanWar 2026 世界杯 瑞士 (Switzerland) 官方粉丝徽章。持有此徽章表示您支持瑞士队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若瑞士队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - 瑞士 徽章",
+  "description": "FanWar 2026 世界杯 瑞士 官方粉丝徽章 🇨🇭。持有此徽章表示您支持瑞士队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若瑞士队小组出线，权重翻倍！",
   "image": "https://flagcdn.com/w320/ch.png",
   "external_url": "https://fanwar2026.xyz/nation/22",
   "attributes": [
     {
-      "trait_type": "Country",
-      "value": "Switzerland"
-    },
-    {
-      "trait_type": "Country (Chinese)",
+      "trait_type": "国家",
       "value": "瑞士"
     },
     {
-      "trait_type": "Group",
-      "value": "Group F"
+      "trait_type": "英文名",
+      "value": "Switzerland"
     },
     {
-      "trait_type": "Flag Emoji",
+      "trait_type": "小组",
+      "value": "F 组"
+    },
+    {
+      "trait_type": "国旗",
       "value": "🇨🇭"
     },
     {
-      "trait_type": "Country Code",
-      "value": "CH"
-    },
-    {
-      "trait_type": "Token ID",
+      "trait_type": "代币编号",
       "display_type": "number",
       "value": 22
     },
     {
-      "trait_type": "Airdrop Multiplier",
-      "value": "5x"
+      "trait_type": "空投加成",
+      "value": "5 倍"
     },
     {
-      "trait_type": "Event",
-      "value": "FIFA World Cup 2026"
+      "trait_type": "赛事",
+      "value": "2026 美加墨世界杯"
     },
     {
-      "trait_type": "Rarity",
-      "value": "Common"
+      "trait_type": "稀有度",
+      "value": "普通"
     }
   ],
   "properties": {
     "nation_id": 22,
     "group": "F",
     "flag_emoji": "🇨🇭",
-    "country_code": "ch"
+    "country_code": "ch",
+    "name_en": "Switzerland"
   }
 }

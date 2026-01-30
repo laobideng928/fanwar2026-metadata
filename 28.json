@@ -1,51 +1,48 @@
 {
-  "name": "FanWar 2026 - 克罗地亚 Badge",
-  "description": "FanWar 2026 世界杯 克罗地亚 (Croatia) 官方粉丝徽章。持有此徽章表示您支持克罗地亚队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若克罗地亚队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - 克罗地亚 徽章",
+  "description": "FanWar 2026 世界杯 克罗地亚 官方粉丝徽章 🇭🇷。持有此徽章表示您支持克罗地亚队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若克罗地亚队小组出线，权重翻倍！",
   "image": "https://flagcdn.com/w320/hr.png",
   "external_url": "https://fanwar2026.xyz/nation/28",
   "attributes": [
     {
-      "trait_type": "Country",
-      "value": "Croatia"
-    },
-    {
-      "trait_type": "Country (Chinese)",
+      "trait_type": "国家",
       "value": "克罗地亚"
     },
     {
-      "trait_type": "Group",
-      "value": "Group G"
+      "trait_type": "英文名",
+      "value": "Croatia"
     },
     {
-      "trait_type": "Flag Emoji",
+      "trait_type": "小组",
+      "value": "G 组"
+    },
+    {
+      "trait_type": "国旗",
       "value": "🇭🇷"
     },
     {
-      "trait_type": "Country Code",
-      "value": "HR"
-    },
-    {
-      "trait_type": "Token ID",
+      "trait_type": "代币编号",
       "display_type": "number",
       "value": 28
     },
     {
-      "trait_type": "Airdrop Multiplier",
-      "value": "5x"
+      "trait_type": "空投加成",
+      "value": "5 倍"
     },
     {
-      "trait_type": "Event",
-      "value": "FIFA World Cup 2026"
+      "trait_type": "赛事",
+      "value": "2026 美加墨世界杯"
     },
     {
-      "trait_type": "Rarity",
-      "value": "Rare"
+      "trait_type": "稀有度",
+      "value": "稀有"
     }
   ],
   "properties": {
     "nation_id": 28,
     "group": "G",
     "flag_emoji": "🇭🇷",
-    "country_code": "hr"
+    "country_code": "hr",
+    "name_en": "Croatia"
   }
 }

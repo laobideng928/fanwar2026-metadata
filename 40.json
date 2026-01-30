@@ -1,51 +1,48 @@
 {
-  "name": "FanWar 2026 - 突尼斯 Badge",
-  "description": "FanWar 2026 世界杯 突尼斯 (Tunisia) 官方粉丝徽章。持有此徽章表示您支持突尼斯队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若突尼斯队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - 突尼斯 徽章",
+  "description": "FanWar 2026 世界杯 突尼斯 官方粉丝徽章 🇹🇳。持有此徽章表示您支持突尼斯队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若突尼斯队小组出线，权重翻倍！",
   "image": "https://flagcdn.com/w320/tn.png",
   "external_url": "https://fanwar2026.xyz/nation/40",
   "attributes": [
     {
-      "trait_type": "Country",
-      "value": "Tunisia"
-    },
-    {
-      "trait_type": "Country (Chinese)",
+      "trait_type": "国家",
       "value": "突尼斯"
     },
     {
-      "trait_type": "Group",
-      "value": "Group J"
+      "trait_type": "英文名",
+      "value": "Tunisia"
     },
     {
-      "trait_type": "Flag Emoji",
+      "trait_type": "小组",
+      "value": "J 组"
+    },
+    {
+      "trait_type": "国旗",
       "value": "🇹🇳"
     },
     {
-      "trait_type": "Country Code",
-      "value": "TN"
-    },
-    {
-      "trait_type": "Token ID",
+      "trait_type": "代币编号",
       "display_type": "number",
       "value": 40
     },
     {
-      "trait_type": "Airdrop Multiplier",
-      "value": "5x"
+      "trait_type": "空投加成",
+      "value": "5 倍"
     },
     {
-      "trait_type": "Event",
-      "value": "FIFA World Cup 2026"
+      "trait_type": "赛事",
+      "value": "2026 美加墨世界杯"
     },
     {
-      "trait_type": "Rarity",
-      "value": "Common"
+      "trait_type": "稀有度",
+      "value": "普通"
     }
   ],
   "properties": {
     "nation_id": 40,
     "group": "J",
     "flag_emoji": "🇹🇳",
-    "country_code": "tn"
+    "country_code": "tn",
+    "name_en": "Tunisia"
   }
 }
