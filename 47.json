@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 乌克兰 Badge",
+  "description": "FanWar 2026 世界杯 乌克兰 (Ukraine) 官方粉丝徽章。持有此徽章表示您支持乌克兰队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若乌克兰队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/ua.png",
+  "external_url": "https://fanwar2026.xyz/nation/47",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Ukraine"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "乌克兰"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group L"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇺🇦"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "UA"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 47
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "nation_id": 47,
+    "group": "L",
+    "flag_emoji": "🇺🇦",
+    "country_code": "ua"
+  }
+}

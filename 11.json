@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 厄瓜多尔 Badge",
+  "description": "FanWar 2026 世界杯 厄瓜多尔 (Ecuador) 官方粉丝徽章。持有此徽章表示您支持厄瓜多尔队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若厄瓜多尔队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/ec.png",
+  "external_url": "https://fanwar2026.xyz/nation/11",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Ecuador"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "厄瓜多尔"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group C"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇪🇨"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "EC"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 11
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "nation_id": 11,
+    "group": "C",
+    "flag_emoji": "🇪🇨",
+    "country_code": "ec"
+  }
+}

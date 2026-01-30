@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 伊朗 Badge",
+  "description": "FanWar 2026 世界杯 伊朗 (Iran) 官方粉丝徽章。持有此徽章表示您支持伊朗队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若伊朗队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/ir.png",
+  "external_url": "https://fanwar2026.xyz/nation/41",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Iran"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "伊朗"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group K"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇮🇷"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "IR"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 41
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "nation_id": 41,
+    "group": "K",
+    "flag_emoji": "🇮🇷",
+    "country_code": "ir"
+  }
+}

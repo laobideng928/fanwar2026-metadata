@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 葡萄牙 Badge",
+  "description": "FanWar 2026 世界杯 葡萄牙 (Portugal) 官方粉丝徽章。持有此徽章表示您支持葡萄牙队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若葡萄牙队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/pt.png",
+  "external_url": "https://fanwar2026.xyz/nation/26",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Portugal"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "葡萄牙"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group G"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇵🇹"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "PT"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 26
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "nation_id": 26,
+    "group": "G",
+    "flag_emoji": "🇵🇹",
+    "country_code": "pt"
+  }
+}

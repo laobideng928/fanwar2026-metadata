@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 尼日利亚 Badge",
+  "description": "FanWar 2026 世界杯 尼日利亚 (Nigeria) 官方粉丝徽章。持有此徽章表示您支持尼日利亚队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若尼日利亚队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/ng.png",
+  "external_url": "https://fanwar2026.xyz/nation/36",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Nigeria"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "尼日利亚"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group I"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇳🇬"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "NG"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 36
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "nation_id": 36,
+    "group": "I",
+    "flag_emoji": "🇳🇬",
+    "country_code": "ng"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "FanWar 2026 Badge",
+  "description": "FanWar 2026 全球共识协议 - 2026 美加墨世界杯官方粉丝徽章 NFT 集合。持有徽章可获得 $GOAL 空投加成，若支持的国家出线则权重翻倍！",
+  "image": "https://fanwar2026.xyz/images/collection-banner.png",
+  "external_link": "https://fanwar2026.xyz",
+  "seller_fee_basis_points": 250,
+  "fee_recipient": "0x0000000000000000000000000000000000000000"
+}

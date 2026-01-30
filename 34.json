@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 塞内加尔 Badge",
+  "description": "FanWar 2026 世界杯 塞内加尔 (Senegal) 官方粉丝徽章。持有此徽章表示您支持塞内加尔队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若塞内加尔队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/sn.png",
+  "external_url": "https://fanwar2026.xyz/nation/34",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Senegal"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "塞内加尔"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group I"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇸🇳"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "SN"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 34
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "nation_id": 34,
+    "group": "I",
+    "flag_emoji": "🇸🇳",
+    "country_code": "sn"
+  }
+}

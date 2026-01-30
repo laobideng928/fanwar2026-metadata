@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FanWar 2026 - NFT Metadata</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 100%);
+            color: #fff;
+            min-height: 100vh;
+            margin: 0;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            background: linear-gradient(90deg, #00fff2, #ff00aa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 2.5rem;
+            margin-bottom: 40px;
+        }
+        .info {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(0,255,242,0.3);
+            border-radius: 12px;
+            padding: 24px;
+            margin-bottom: 24px;
+        }
+        .info h2 {
+            color: #00fff2;
+            margin-top: 0;
+        }
+        .badge-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+            gap: 12px;
+            margin-top: 20px;
+        }
+        .badge {
+            text-align: center;
+            padding: 12px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 8px;
+            transition: transform 0.2s;
+        }
+        .badge:hover {
+            transform: scale(1.1);
+        }
+        .badge img {
+            width: 48px;
+            height: auto;
+            border-radius: 4px;
+        }
+        .badge span {
+            display: block;
+            font-size: 0.75rem;
+            color: #888;
+            margin-top: 4px;
+        }
+        a {
+            color: #00fff2;
+        }
+        code {
+            background: rgba(0,255,242,0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>⚽ FanWar 2026 NFT Metadata</h1>
+        
+        <div class="info">
+            <h2>📄 Contract Info</h2>
+            <p><strong>Network:</strong> Ethereum Mainnet</p>
+            <p><strong>Contract:</strong> <a href="https://etherscan.io/address/0x0097710Cc5FeC6d6218B8031B408E39E9348e30A" target="_blank">0x0097710Cc5FeC6d6218B8031B408E39E9348e30A</a></p>
+            <p><strong>Standard:</strong> ERC-1155</p>
+            <p><strong>Total Nations:</strong> 48</p>
+        </div>
+
+        <div class="info">
+            <h2>🔗 Metadata URLs</h2>
+            <p>Token metadata: <code>/{tokenId}.json</code></p>
+            <p>Contract metadata: <code>/contract.json</code></p>
+            <p>Example: <a href="./5.json">5.json (Argentina)</a></p>
+        </div>
+
+        <div class="info">
+            <h2>🏳️ All 48 Nations</h2>
+            <div class="badge-grid" id="badges"></div>
+        </div>
+    </div>
+
+    <script>
+        const nations = [
+            {id:1,name:'USA',code:'us'},{id:2,name:'Mexico',code:'mx'},{id:3,name:'Canada',code:'ca'},{id:4,name:'Jamaica',code:'jm'},
+            {id:5,name:'Argentina',code:'ar'},{id:6,name:'Chile',code:'cl'},{id:7,name:'Peru',code:'pe'},{id:8,name:'Venezuela',code:'ve'},
+            {id:9,name:'Brazil',code:'br'},{id:10,name:'Colombia',code:'co'},{id:11,name:'Ecuador',code:'ec'},{id:12,name:'Paraguay',code:'py'},
+            {id:13,name:'England',code:'gb-eng'},{id:14,name:'Wales',code:'gb-wls'},{id:15,name:'Scotland',code:'gb-sct'},{id:16,name:'Ireland',code:'ie'},
+            {id:17,name:'France',code:'fr'},{id:18,name:'Belgium',code:'be'},{id:19,name:'Netherlands',code:'nl'},{id:20,name:'Austria',code:'at'},
+            {id:21,name:'Germany',code:'de'},{id:22,name:'Switzerland',code:'ch'},{id:23,name:'Denmark',code:'dk'},{id:24,name:'Poland',code:'pl'},
+            {id:25,name:'Spain',code:'es'},{id:26,name:'Portugal',code:'pt'},{id:27,name:'Italy',code:'it'},{id:28,name:'Croatia',code:'hr'},
+            {id:29,name:'Japan',code:'jp'},{id:30,name:'S.Korea',code:'kr'},{id:31,name:'Australia',code:'au'},{id:32,name:'Saudi',code:'sa'},
+            {id:33,name:'Morocco',code:'ma'},{id:34,name:'Senegal',code:'sn'},{id:35,name:'Egypt',code:'eg'},{id:36,name:'Nigeria',code:'ng'},
+            {id:37,name:'Cameroon',code:'cm'},{id:38,name:'Ghana',code:'gh'},{id:39,name:'Ivory Coast',code:'ci'},{id:40,name:'Tunisia',code:'tn'},
+            {id:41,name:'Iran',code:'ir'},{id:42,name:'Qatar',code:'qa'},{id:43,name:'UAE',code:'ae'},{id:44,name:'Uzbekistan',code:'uz'},
+            {id:45,name:'Uruguay',code:'uy'},{id:46,name:'Serbia',code:'rs'},{id:47,name:'Ukraine',code:'ua'},{id:48,name:'Czech',code:'cz'}
+        ];
+        
+        const grid = document.getElementById('badges');
+        nations.forEach(n => {
+            grid.innerHTML += `
+                <a href="./${n.id}.json" class="badge">
+                    <img src="https://flagcdn.com/w80/${n.code}.png" alt="${n.name}">
+                    <span>${n.name}</span>
+                </a>
+            `;
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+{
+  "name": "FanWar 2026 - 德国 Badge",
+  "description": "FanWar 2026 世界杯 德国 (Germany) 官方粉丝徽章。持有此徽章表示您支持德国队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5x 加成，若德国队小组出线，权重翻倍！",
+  "image": "https://flagcdn.com/w320/de.png",
+  "external_url": "https://fanwar2026.xyz/nation/21",
+  "attributes": [
+    {
+      "trait_type": "Country",
+      "value": "Germany"
+    },
+    {
+      "trait_type": "Country (Chinese)",
+      "value": "德国"
+    },
+    {
+      "trait_type": "Group",
+      "value": "Group F"
+    },
+    {
+      "trait_type": "Flag Emoji",
+      "value": "🇩🇪"
+    },
+    {
+      "trait_type": "Country Code",
+      "value": "DE"
+    },
+    {
+      "trait_type": "Token ID",
+      "display_type": "number",
+      "value": 21
+    },
+    {
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
+    },
+    {
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "nation_id": 21,
+    "group": "F",
+    "flag_emoji": "🇩🇪",
+    "country_code": "de"
+  }
+}
