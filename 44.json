@@ -1,48 +1,47 @@
 {
-  "name": "FanWar 2026 - 乌兹别克斯坦 徽章",
-  "description": "FanWar 2026 世界杯 乌兹别克斯坦 官方粉丝徽章 🇺🇿。持有此徽章表示您支持乌兹别克斯坦队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若乌兹别克斯坦队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - Uzbekistan Badge",
+  "description": "FanWar 2026 World Cup Official Fan Badge for Uzbekistan 🇺🇿. Holding this badge shows your support for Uzbekistan in the 2026 FIFA World Cup! Badge holders receive 5x $GOAL token airdrop multiplier. If Uzbekistan advances from the group stage, the multiplier doubles!",
   "image": "https://flagcdn.com/w320/uz.png",
   "external_url": "https://fanwar2026.xyz/nation/44",
   "attributes": [
     {
-      "trait_type": "国家",
-      "value": "乌兹别克斯坦"
-    },
-    {
-      "trait_type": "英文名",
+      "trait_type": "Country",
       "value": "Uzbekistan"
     },
     {
-      "trait_type": "小组",
-      "value": "K 组"
+      "trait_type": "Group",
+      "value": "Group K"
     },
     {
-      "trait_type": "国旗",
+      "trait_type": "Flag",
       "value": "🇺🇿"
     },
     {
-      "trait_type": "代币编号",
+      "trait_type": "Country Code",
+      "value": "UZ"
+    },
+    {
+      "trait_type": "Token ID",
       "display_type": "number",
       "value": 44
     },
     {
-      "trait_type": "空投加成",
-      "value": "5 倍"
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
     },
     {
-      "trait_type": "赛事",
-      "value": "2026 美加墨世界杯"
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
     },
     {
-      "trait_type": "稀有度",
-      "value": "普通"
+      "trait_type": "Rarity",
+      "value": "Common"
     }
   ],
   "properties": {
     "nation_id": 44,
     "group": "K",
     "flag_emoji": "🇺🇿",
-    "country_code": "uz",
-    "name_en": "Uzbekistan"
+    "country_code": "uz"
   }
 }

@@ -1,48 +1,47 @@
 {
-  "name": "FanWar 2026 - 埃及 徽章",
-  "description": "FanWar 2026 世界杯 埃及 官方粉丝徽章 🇪🇬。持有此徽章表示您支持埃及队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若埃及队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - Egypt Badge",
+  "description": "FanWar 2026 World Cup Official Fan Badge for Egypt 🇪🇬. Holding this badge shows your support for Egypt in the 2026 FIFA World Cup! Badge holders receive 5x $GOAL token airdrop multiplier. If Egypt advances from the group stage, the multiplier doubles!",
   "image": "https://flagcdn.com/w320/eg.png",
   "external_url": "https://fanwar2026.xyz/nation/35",
   "attributes": [
     {
-      "trait_type": "国家",
-      "value": "埃及"
-    },
-    {
-      "trait_type": "英文名",
+      "trait_type": "Country",
       "value": "Egypt"
     },
     {
-      "trait_type": "小组",
-      "value": "I 组"
+      "trait_type": "Group",
+      "value": "Group I"
     },
     {
-      "trait_type": "国旗",
+      "trait_type": "Flag",
       "value": "🇪🇬"
     },
     {
-      "trait_type": "代币编号",
+      "trait_type": "Country Code",
+      "value": "EG"
+    },
+    {
+      "trait_type": "Token ID",
       "display_type": "number",
       "value": 35
     },
     {
-      "trait_type": "空投加成",
-      "value": "5 倍"
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
     },
     {
-      "trait_type": "赛事",
-      "value": "2026 美加墨世界杯"
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
     },
     {
-      "trait_type": "稀有度",
-      "value": "普通"
+      "trait_type": "Rarity",
+      "value": "Common"
     }
   ],
   "properties": {
     "nation_id": 35,
     "group": "I",
     "flag_emoji": "🇪🇬",
-    "country_code": "eg",
-    "name_en": "Egypt"
+    "country_code": "eg"
   }
 }

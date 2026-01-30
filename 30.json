@@ -1,48 +1,47 @@
 {
-  "name": "FanWar 2026 - 韩国 徽章",
-  "description": "FanWar 2026 世界杯 韩国 官方粉丝徽章 🇰🇷。持有此徽章表示您支持韩国队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若韩国队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - South Korea Badge",
+  "description": "FanWar 2026 World Cup Official Fan Badge for South Korea 🇰🇷. Holding this badge shows your support for South Korea in the 2026 FIFA World Cup! Badge holders receive 5x $GOAL token airdrop multiplier. If South Korea advances from the group stage, the multiplier doubles!",
   "image": "https://flagcdn.com/w320/kr.png",
   "external_url": "https://fanwar2026.xyz/nation/30",
   "attributes": [
     {
-      "trait_type": "国家",
-      "value": "韩国"
-    },
-    {
-      "trait_type": "英文名",
+      "trait_type": "Country",
       "value": "South Korea"
     },
     {
-      "trait_type": "小组",
-      "value": "H 组"
+      "trait_type": "Group",
+      "value": "Group H"
     },
     {
-      "trait_type": "国旗",
+      "trait_type": "Flag",
       "value": "🇰🇷"
     },
     {
-      "trait_type": "代币编号",
+      "trait_type": "Country Code",
+      "value": "KR"
+    },
+    {
+      "trait_type": "Token ID",
       "display_type": "number",
       "value": 30
     },
     {
-      "trait_type": "空投加成",
-      "value": "5 倍"
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
     },
     {
-      "trait_type": "赛事",
-      "value": "2026 美加墨世界杯"
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
     },
     {
-      "trait_type": "稀有度",
-      "value": "稀有"
+      "trait_type": "Rarity",
+      "value": "Rare"
     }
   ],
   "properties": {
     "nation_id": 30,
     "group": "H",
     "flag_emoji": "🇰🇷",
-    "country_code": "kr",
-    "name_en": "South Korea"
+    "country_code": "kr"
   }
 }

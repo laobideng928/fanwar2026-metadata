@@ -1,48 +1,47 @@
 {
-  "name": "FanWar 2026 - 加纳 徽章",
-  "description": "FanWar 2026 世界杯 加纳 官方粉丝徽章 🇬🇭。持有此徽章表示您支持加纳队参加 2026 美加墨世界杯！持有者将获得 $GOAL 代币空投 5 倍加成，若加纳队小组出线，权重翻倍！",
+  "name": "FanWar 2026 - Ghana Badge",
+  "description": "FanWar 2026 World Cup Official Fan Badge for Ghana 🇬🇭. Holding this badge shows your support for Ghana in the 2026 FIFA World Cup! Badge holders receive 5x $GOAL token airdrop multiplier. If Ghana advances from the group stage, the multiplier doubles!",
   "image": "https://flagcdn.com/w320/gh.png",
   "external_url": "https://fanwar2026.xyz/nation/38",
   "attributes": [
     {
-      "trait_type": "国家",
-      "value": "加纳"
-    },
-    {
-      "trait_type": "英文名",
+      "trait_type": "Country",
       "value": "Ghana"
     },
     {
-      "trait_type": "小组",
-      "value": "J 组"
+      "trait_type": "Group",
+      "value": "Group J"
     },
     {
-      "trait_type": "国旗",
+      "trait_type": "Flag",
       "value": "🇬🇭"
     },
     {
-      "trait_type": "代币编号",
+      "trait_type": "Country Code",
+      "value": "GH"
+    },
+    {
+      "trait_type": "Token ID",
       "display_type": "number",
       "value": 38
     },
     {
-      "trait_type": "空投加成",
-      "value": "5 倍"
+      "trait_type": "Airdrop Multiplier",
+      "value": "5x"
     },
     {
-      "trait_type": "赛事",
-      "value": "2026 美加墨世界杯"
+      "trait_type": "Event",
+      "value": "FIFA World Cup 2026"
     },
     {
-      "trait_type": "稀有度",
-      "value": "普通"
+      "trait_type": "Rarity",
+      "value": "Common"
     }
   ],
   "properties": {
     "nation_id": 38,
     "group": "J",
     "flag_emoji": "🇬🇭",
-    "country_code": "gh",
-    "name_en": "Ghana"
+    "country_code": "gh"
   }
 }
